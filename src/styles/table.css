@@ -1,0 +1,17 @@
+.table th {
+  font-weight: 600;
+}
+
+.table .table-light {
+  color: #495057;
+  border-color: #eff2f7;
+  background-color: #f8f9fa;
+}
+
+.table-wrapper-scroll-y {
+  position: relative;
+  height: 50vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  display: block;
+}

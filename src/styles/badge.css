@@ -1,0 +1,25 @@
+.rounded-pill {
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+}
+
+.badge-soft-warning {
+    color: #f1b44c;
+    background-color: #f1b44c2e!important;
+}
+
+.badge-soft-success {
+  color: #34c38f;
+  background-color: #34c38f2e!important;
+}
+
+.badge-soft-primary {
+  color: #6395f9;
+  background-color: #6395f92e!important;
+}
+
+.badge-soft-secondary {
+  color: #657798;
+  background-color: #6577982e!important;
+}
+
